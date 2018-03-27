@@ -35,5 +35,9 @@ public class BungaAksi {
         Sepatu.Warna_Kelopak = "Putih";
         Sepatu.Jumlah_Kelopak = -+9;
         Sepatu.Jenis_Kelamin = "Kepala Putik";
+        
+        Sepatu.CaraKawin();
+        Kertas.CaraKawin();
+        Melati.CaraKawin();
     }
 }
