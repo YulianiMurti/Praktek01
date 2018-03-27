@@ -11,6 +11,8 @@ package praktek01;
  */
 public class BungaAksi {
     public static void main(String[] args) {
-        
+        Bunga Sepatu = new Bunga();
+        Bunga Kertas = new Bunga();
+        Bunga Melati = new Bunga();
     }
 }
