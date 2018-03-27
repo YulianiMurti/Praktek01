@@ -21,6 +21,6 @@ public class BungaAksi {
         Kertas.Jumlah_Kelopak = 3;
         Kertas.Jenis_Kelamin = "Putik";
         
-       
+        Kertas.CaraKawin();
     }
 }
